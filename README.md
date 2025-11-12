@@ -51,7 +51,7 @@ To start using Pragati's Exam Buddy, follow the instructions given in our [GitHu
 📄 License
 ----------
 
-Pragati's Exam Buddy is released under the [MIT License]
+Pragati's Exam Buddy is released under the [MIT License]((https://github.com/rajesh-sai-123/Pragati-Exam-Buddy/blob/main/LICENSE))
 
 🙏 Acknowledgments
 ------------------
@@ -66,6 +66,7 @@ Pragati's Exam Buddy is released under the [MIT License]
   Designed & Developed by <strong> 22A31A4446 , 22A31A4454, 22A31A4462 .</strong><br>\
   <em>✨ CSE - Data Science (2022-2026).</em>\
 </div>
+
 
 
 
