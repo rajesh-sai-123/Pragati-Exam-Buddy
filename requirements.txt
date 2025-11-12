@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+pillow
+pymupdf  # For fitz
+reportlab
+supabase
+streamlit-lottie
+openai
